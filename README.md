@@ -2,6 +2,7 @@
 ## Description
  
 This is a console application of the good old Tetris game, implemented in C++ using OOP concepts and computer AI.
+
 The application provides the option to play alone, against another player and against the computer in different levels.
 
 ## Computer AI
